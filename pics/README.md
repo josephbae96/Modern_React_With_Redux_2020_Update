@@ -1,5 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was created by Joseph Bae following the instructions from the Modern React Course
+available from Udemy.
+
+This project used the Unsplash API and the Semantics UI to create a simple image searching web
+application, based on images available to us from the Unsplash API.
+
+### Gif
+!{}(pics.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
