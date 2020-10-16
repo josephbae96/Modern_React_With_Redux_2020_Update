@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project was created by Joseph Bae as he follows along the Modern React with Redux Course 2020 Update
+available on Udemy.
+
+## Season GIF
+![](season.gif)
+
 ## Available Scripts
 
 In the project directory, you can run:
