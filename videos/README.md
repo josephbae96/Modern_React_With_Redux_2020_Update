@@ -1,16 +1,14 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This Video Browser project is a React application project written in JavaScript, CSS, and HTML and uses the React, 
-Youtube API, Semantic UI, and Axios libraries to create a simple Youtube video browser. This project is a part of the 
-Udemy Modern React with Redux [2020 Update] Course.
+This Video Browser project is a React application project written in JavaScript, CSS, and HTML and 
+uses the React, Youtube API, Semantic UI, and Axios libraries to create a simple Youtube video 
+browser. This project is a part of the  Udemy Modern React with Redux [2020 Update] Course.
 
-This project was created by Joseph Bae in October 2020 as I 
-followed the Modern React course.
-
+This project was created by Joseph Bae in October 2020 as I  followed the Modern React course.
 
 
-
-
+## GIF
+![](videos.gif)
 
 ## Available Scripts
 
