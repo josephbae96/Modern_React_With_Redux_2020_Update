@@ -6,6 +6,11 @@ browser. This project is a part of the Udemy Modern React with Redux [2020 Updat
 
 This project was created by Joseph Bae in October 2020 as I  followed the Modern React course.
 
+As per Section 15, this project specifically has been deployed with Vercel.
+The link to the deployment is <a href="https://videos-hooks-eight-plum.vercel.app">here.</a>
+The Youtube API might not work due to using an API key that is meant only for localhost:3000 
+
+As per Section 15, this project has also been deployed with Netlify.
 
 ## GIF
 ![](videos-hooks.gif)
