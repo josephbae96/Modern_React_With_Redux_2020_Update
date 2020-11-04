@@ -46,6 +46,11 @@ earlier Videos react project that uses the YouTube API to create
 a simple video browser
 ![](/videos-hooks/videos-hooks.gif)
 
-## 8. To Be Created
+## 8. Songs
+A React Javascript web application that uses React-Redux to 
+select and display songs along with each song's details.
+![](/songs/songs.gif)
+
+## 9. To Be Created
 
 ![](/.gif)
