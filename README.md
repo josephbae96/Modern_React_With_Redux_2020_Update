@@ -47,10 +47,20 @@ a simple video browser
 ![](/videos-hooks/videos-hooks.gif)
 
 ## 8. Songs
-A React Javascript web application that uses React-Redux to 
+A React-Redux Javascript web application that uses React-Redux to 
 select and display songs along with each song's details.
 ![](/songs/songs.gif)
 
-## 9. To Be Created
+## 9. Blog
+A React-Redux JavaScript web application that uses React-Redux, 
+Semantic UI, and axios to display blog posts
+![](/blog/blog.gif)
 
-![](/.gif)
+## 10. Store
+
+![](/store/store.gif)
+
+## 11. To Be Created
+
+
+
