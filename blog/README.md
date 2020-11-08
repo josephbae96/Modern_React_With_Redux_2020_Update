@@ -1,6 +1,7 @@
 This blog project is a React-Redux application project written in JavaScript, CSS, and HTML and 
-uses the React, Redux, axios, and Semantic UI libraries to create an application where you can select a
-song and get it's details. This project is a part of the Udemy Modern React with Redux 
+uses the React, Redux, React-Redux, Redux-Thunk, JSONPlaceholder, lodash, and Semantic UI libraries 
+to show  blog posts, along with the Title of the blog post and the user who made the post using a 
+single network request for each post.This project is a part of the Udemy Modern React with Redux 
 [2020 Update] Course.
 
 This project was created by Joseph Bae in November 2020 as I followed the Modern React course.

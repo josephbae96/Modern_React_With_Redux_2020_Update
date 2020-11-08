@@ -43,7 +43,7 @@ navigation and search component.
 ## 7. Videos-Hooks
 A React Javascript web application that is a refactor of the 
 earlier Videos react project that uses the YouTube API to create
-a simple video browser
+a simple video browser.
 ![](/videos-hooks/videos-hooks.gif)
 
 ## 8. Songs
@@ -53,12 +53,14 @@ select and display songs along with each song's details.
 
 ## 9. Blog
 A React-Redux JavaScript web application that uses React-Redux, 
-Semantic UI, and axios to display blog posts
+Semantic UI, JSONPlaceholder API, lodash, and axios to display 
+blog posts.
 ![](/blog/blog.gif)
 
-## 10. Store
-
-![](/store/store.gif)
+## 10. Twitch
+A simple version of the popular streaming application Twitch,
+created with React-Redux and the React Router.
+![](/twitch/twitch.gif)
 
 ## 11. To Be Created
 
