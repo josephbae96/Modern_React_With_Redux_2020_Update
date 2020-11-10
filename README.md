@@ -57,10 +57,10 @@ Semantic UI, JSONPlaceholder API, lodash, and axios to display
 blog posts.
 ![](/blog/blog.gif)
 
-## 10. Twitch
+## 10. Streams
 A simple version of the popular streaming application Twitch,
 created with React-Redux and the React Router.
-![](/twitch/twitch.gif)
+![](/streams/streams.gif)
 
 ## 11. To Be Created
 
