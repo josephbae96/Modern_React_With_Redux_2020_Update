@@ -58,7 +58,7 @@ class StreamShow extends React.Component {
     }
 }
 
-const mapStatetoProps = (state) => {
+const mapStatetoProps = (state, ownProps) => {
     return { stream: state.streams[ownProps.match.params.id]};
 };
 
