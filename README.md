@@ -1,5 +1,5 @@
-# Udemy-React
-Modern React with Redux 2020 course offered by Udemy.  
+# Modern React with Redux [2020 Update]
+Modern React with Redux [2020 Update] course taught by Stephen Grider. 
 
 Contains multiple JavaScript projects with different
 applications, created by Joseph Bae as he follows the course.  
@@ -62,7 +62,19 @@ A simple version of the popular streaming application Twitch,
 created with React-Redux and the React Router.
 ![](/streams/streams.gif)
 
-## 11. To Be Created
+## 11. Translate
+A React project created to showcase the difference between Redux 
+and the Context system 
+
+![](/translate/translate.gif)
 
 
+# Older React Projects
+The following section will show projects created with older versions
+of React
+
+## 12. TO BE CREATED
+
+
+## 13. TO BE CREATED
 
