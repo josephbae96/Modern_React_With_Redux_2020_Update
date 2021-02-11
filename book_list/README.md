@@ -1,3 +1,10 @@
+# Books List
+This application was created with guidance from Stephen Grider and his
+Modern React with Redux [2020 Update] course on Udemy.
+
+Using React and Redux libraries, I have created a simple application where
+you can choose a book from a book list and get the active book's details.
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
