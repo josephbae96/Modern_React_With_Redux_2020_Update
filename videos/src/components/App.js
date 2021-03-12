@@ -3,8 +3,9 @@ import SearchBar from './SearchBar';
 import youtube from '../apis/youtube';
 import VideoList from './VideoList';
 import VideoDetail from './VideoDetail';
+import API_KEY from '../apis/Keys';
 
-const KEY = 'AIzaSyDxyQvzIeOowWz2wA2Sl4iCrxPpbcoXqPs';
+const KEY = API_KEY;
 
 class App extends React.Component{
     state = {videos: [], selectedVideo: null };
